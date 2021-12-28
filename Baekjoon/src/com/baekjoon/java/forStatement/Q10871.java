@@ -1,3 +1,4 @@
+package com.baekjoon.java.forStatement;
 import java.util.*;
 
 public class Q10871 {

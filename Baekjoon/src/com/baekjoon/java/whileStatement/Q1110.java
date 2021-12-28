@@ -1,3 +1,4 @@
+package com.baekjoon.java.whileStatement;
 import java.util.Scanner;
 
 public class Q1110 {

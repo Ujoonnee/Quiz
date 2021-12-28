@@ -1,3 +1,4 @@
+package com.baekjoon.java.oneDimensionalArray;
 import java.util.Scanner;
  
 public class Q2577 {
